@@ -1,4 +1,4 @@
-# openjdk-8-jdk_griggorii_build_ubuntu_20.04 , new javac
+# openjdk-8-jdk_griggorii_build_ubuntu_20.04 , new gcc different linux to java javac , java -c | gc -c
 openjdk-8-jdk , tarrbal , jdk-8 , build , ubuntu 20.04
 
 Download : https://github.com/Griggorii/openjdk-8-jdk_griggorii_build_ubuntu_20.04/releases/tag/openjdk-8-jdk
