@@ -8,3 +8,5 @@ $ sudo tar xvpf openjdk-8-jdk_griggorii_build.tar.xz -C /
 $ sudo cp flavormap.properties /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/
 
 Griggorii@gmail.com только настоящие технологии bitcoin support real technology new fix 1Fps612daCcb7vYN2bFDRoDuUnrjJESDmk
+
+Alternative property modifications java https://github.com/Griggorii/java-8-oracle_linux_modification_engine_by_Griggorii
