@@ -13,6 +13,8 @@ Not link ? check example not link policytool open /usr/lib/jvm/java-8-openjdk-am
 
 $ sudo ln -s /usr/lib/jvm/java-8-openjdk-amd64/bin/policytool /usr/bin
 
++ good instrument https://github.com/pxb1988/dex2jar/releases
+
 Только настоящие технологии ни каких выдуманных паразитирующих дистрибутивов support real technology investments and donate griggorii@gmail.com
 
 Alternative property modifications java https://github.com/Griggorii/java-8-oracle_linux_modification_engine_by_Griggorii
