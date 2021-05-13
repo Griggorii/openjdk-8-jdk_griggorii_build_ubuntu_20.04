@@ -25,6 +25,8 @@ $ echo $JAVA_HOME
 
 + good instrument https://github.com/pxb1988/dex2jar/releases
 
++ https://github.com/java-decompiler/jd-gui/releases/ deb install fix $ sudo nano '/opt/jd-gui/jd-gui.desktop' replace string 4) Exec=java -jar /opt/jd-gui/jd-gui.jar to fix ->  Exec=java -jarsudo nano d-gui/jd-gui-1.6.6-min.ja
+
 Только настоящие технологии ни каких выдуманных паразитирующих дистрибутивов support real technology investments and donate griggorii@gmail.com
 
 Alternative property modifications java https://github.com/Griggorii/java-8-oracle_linux_modification_engine_by_Griggorii
